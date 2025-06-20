@@ -36,7 +36,7 @@ export default function AboutPage() {
         <div>
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg mb-4">
-            I'm Muhammad Bin Nasir, a Computer Scientist with a 3.9 GPA and a mind wired for
+            I am Muhammad Bin Nasir, a Computer Scientist with a 3.9 GPA and a mind wired for
             problem-solving. From building C++ quiz apps to AI-based note summarizers, I blend
             creativity with logic like a spellcaster in the realm of data and development.
           </p>
