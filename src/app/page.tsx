@@ -126,7 +126,7 @@ export default function HomePage() {
           <div>
             <h2 className="text-4xl font-bold mb-4">About Me</h2>
             <p className="text-lg mb-4">
-              I'm Muhammad Bin Nasir, a Computer Scientist with a 3.9 GPA and a mind wired for
+              I am  Muhammad Bin Nasir, a Computer Scientist with a 3.9 GPA and a mind wired for
               problem-solving. From building C++ quiz apps to AI-based note summarizers, I blend
               creativity with logic like a spellcaster in the realm of data and development.
             </p>
@@ -185,7 +185,7 @@ export default function HomePage() {
           <h2 className="text-4xl font-bold mb-4">Get In Touch</h2>
           <p className="text-gray-400 mb-8">
             Whether you want to collaborate, ask something technical, or just say <i>salam</i> —
-            drop me a message. I’ll read every word.
+            drop me a message. I will read every word.
           </p>
 
           <form
