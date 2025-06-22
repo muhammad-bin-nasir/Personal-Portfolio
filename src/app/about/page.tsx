@@ -36,9 +36,16 @@ export default function AboutPage() {
         <div>
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg mb-4">
-            I am Muhammad Bin Nasir, a Computer Scientist with a 3.9 GPA and a mind wired for
-            problem-solving. From building C++ quiz apps to AI-based note summarizers, I blend
-            creativity with logic like a spellcaster in the realm of data and development.
+            I am a third-year Computer Science student with a strong focus on statistical 
+            computing and data analysis. Through rigorous coursework in algorithms, machine 
+            learning, and advanced mathematics, I've developed a robust foundation for tackling
+            complex data challenges. I have worked on projects such as implementing neural 
+            networks from scratch and developing predictive models for real-world datasets, 
+            demonstrating both technical proficiency and practical problem-solving abilities. 
+            With a strong passion for Data Science, I aim to pursue an MS degree to deepen my 
+            expertise in areas such as deep learning and big data analytics. My combination of 
+            academic excellence, hands-on project experience, and commitment to data-driven 
+            innovation positions me to make meaningful contributions to the industry.
           </p>
 
           <p className="italic text-gray-400 mb-6">
