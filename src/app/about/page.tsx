@@ -38,7 +38,7 @@ export default function AboutPage() {
           <p className="text-lg mb-4">
             I am a third-year Computer Science student with a strong focus on statistical 
             computing and data analysis. Through rigorous coursework in algorithms, machine 
-            learning, and advanced mathematics, I've developed a robust foundation for tackling
+            learning, and advanced mathematics, I have developed a robust foundation for tackling
             complex data challenges. I have worked on projects such as implementing neural 
             networks from scratch and developing predictive models for real-world datasets, 
             demonstrating both technical proficiency and practical problem-solving abilities. 
